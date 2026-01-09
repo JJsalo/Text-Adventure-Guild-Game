@@ -1,0 +1,9 @@
+{       
+        "Intro.askName" : "\"Welcome to my game. What is your name?\"",
+        "Intro.welcome" : "$\"Welcome {charName}! Let us begin our adventure. You are a knight waking from a troubled slumber. As you roll from the bed, (still wearing the tunic from the night before tsk tsk) You reach for your weapon. Do you grab the axe, bow or sword?\"",
+        "Intro.exitRoom" : "$\"As you exit your room, you bump into your friend, the mighty dwarf Gamli. \"{playerName}! Good to see you my friend! Have you decided which contract we are taking today?\"",
+        "Intro.remindMe" : "\"Right, the contracts...faint recollection of the previous days business begin to emerge from the ether that is your minds eye. Perhaps one too many dwarven ales? \"Could you remind me of the contracts?\"",
+        "Intro.questList" : "\"Sure! There was baker Bilibo with his vermin issue, Faerin the blacksmith and his iron supplier trouble and Frank the fletcher. Not sure what his deal is. Which of our esteemed patrons would you like to visit today?"
+
+}
+
